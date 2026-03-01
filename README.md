@@ -66,4 +66,5 @@ pip install --upgrade google-api-python-client google-auth-oauthlib google-auth-
 *   **YouTube Quota**: The free tier provides **10,000 units** per day. One upload costs **1,600 units**. You can upload roughly **6 videos per day**.
 *   **Pollinations Balance**: Check your balance at `https://gen.pollinations.ai/account/balance` if generation fails.
 *   **Timeout**: Generating high-quality AI video takes time. If the script crashes, ensure the `timeout` in the `requests.get` call is at least `120` seconds.
-
+---
+## Copyright © 2026 Hugo Wong. All rights reserved 
