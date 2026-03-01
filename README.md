@@ -67,4 +67,4 @@ pip install --upgrade google-api-python-client google-auth-oauthlib google-auth-
 *   **Pollinations Balance**: Check your balance at `https://gen.pollinations.ai/account/balance` if generation fails.
 *   **Timeout**: Generating high-quality AI video takes time. If the script crashes, ensure the `timeout` in the `requests.get` call is at least `120` seconds.
 ---
-## Copyright © 2026 Hugo Wong. All rights reserved 
+**Copyright © 2026 Hugo Wong. All rights reserved**
