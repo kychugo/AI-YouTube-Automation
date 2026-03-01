@@ -67,9 +67,3 @@ pip install --upgrade google-api-python-client google-auth-oauthlib google-auth-
 *   **Pollinations Balance**: Check your balance at `https://gen.pollinations.ai/account/balance` if generation fails.
 *   **Timeout**: Generating high-quality AI video takes time. If the script crashes, ensure the `timeout` in the `requests.get` call is at least `120` seconds.
 
----
-
-### 💡 師兄溫馨提示 (Mentor's Tips):
-*   **Security**: 千祈唔好將 `client_secrets.json` 同 `token.pickle` 擺上 GitHub，呢兩個係你個 Channel 嘅「鎖匙」。
-*   **Automation**: 如果想每日自動行，可以用 Windows 嘅 **Task Scheduler (工作排程器)** 定時執行 `python main.py`。
-*   **Shorts**: 如果你想條片變做 YouTube Shorts，記得確保影片比例係 9:16（直向），片長唔好超過 60 秒。
